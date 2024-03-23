@@ -2,7 +2,8 @@ venv/
 gui/
 dist/
 build/
-idea/
+/.idea/
 App
 App.spec
 stock.spec
+.gitignore
