@@ -1,0 +1,7 @@
+/venv/
+/gui/
+/dist/
+/build/
+/App
+/App.spec
+/stock.spec
