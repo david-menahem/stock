@@ -1,7 +1,8 @@
 venv/
 gui/
 dist/
-/build/
+build/
+.idea/
 App
 App.spec
 stock.spec
