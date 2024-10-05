@@ -1,9 +1,1 @@
-venv/
-gui/
-dist/
-build/
-/.idea/
-App
-App.spec
-stock.spec
-.gitignore
+/.venv
